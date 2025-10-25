@@ -1,7 +1,7 @@
-OPEN_API_KEY = "";
-PICOVOICE_API_KEY = "fjRModTxjurjZY/MIknI5bCL3J33HQExiW0VhfKdj4CDUDFds3EqEg==";
+OPEN_API_KEY = "YOUR_API_KEY_HERE";
+PICOVOICE_API_KEY = "YOUR_API_KEY_HERE";
 WAKEWORD = "alexa"
-WAKEWORDSOUND = "/home/xpi5/workspace/Sounds/innit2.wav" 
-WAKEWORDSOUND2 = "/home/xpi5/workspace/Sounds/innit.wav"
-MIC_INDEX = 0
-SPEECH_DURATION = 5
+WAKEWORDSOUND = "put whatever sound is needed, must be wav file" 
+WAKEWORDSOUND2 = "put whatever sound is needed, must be wav file"
+MIC_INDEX = 0 # Verify this, for me it was 0. 
+SPEECH_DURATION = 5 # Put whatever you wish
